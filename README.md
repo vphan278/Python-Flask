@@ -80,6 +80,6 @@ The goal of this repository is to practice building web applications using Pytho
 
 AUTHOR
 
-Vinh Tan Phan  
+Vinh Phan  
 Computer Science Student  
-De Anza College
+
